@@ -1,0 +1,7 @@
+http://veritodemo3.magikthemes.com/
+
+s
+<i class="fas fa-search-plus"></i>
+<i class="far fa-heart"></i>
+<i class="far fa-star"></i>
+
